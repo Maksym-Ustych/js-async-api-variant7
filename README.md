@@ -31,6 +31,10 @@ REST Countries API
 2. Запустити через Live Server
 3. Використовувати пошук або кнопку "Показати всі країни"
 
+### Demo video
+   
+https://docs.google.com/videos/d/1aLQk58UO8fRLQEech54fGuTD0qVHXVfhLAH2ScAxj4g/edit?usp=sharing
+
 ### Автор
 
 Максим Устич
